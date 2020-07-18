@@ -14,3 +14,5 @@ This is a most basic way to learn how to implement Machine Learning models and g
 - decision tree regression gives the range of prediction where the features are same.
 - when we plot the 2-D visualisation graph, it will give a stair-like curve.
 - for more than one feature, we can't visualise the graph, as it wll be in higher dimension.
+#### What is ensemble learning simply?
+- Ensemble learning is when you take multiple algorithms or the same algorithm multiple times and you put them together to make something much more powerful than the original.
