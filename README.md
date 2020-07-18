@@ -10,5 +10,7 @@ This is a most basic way to learn how to implement Machine Learning models and g
 - no, we don't need to do feature scaling.
 - and hence, there is no need of transform method, but just fit.
 #### Can we use decision tree on one feature dataset?
-- yes, we can. But the visualisation won't be that pretty.
+- yes, we can. 
 - decision tree regression gives the range of prediction where the features are same.
+- when we plot the 2-D visualisation graph, it will give a stair-like curve.
+- for more than one feature, we can't visualise the graph, as it wll be in higher dimension.
