@@ -11,3 +11,4 @@ This is a most basic way to learn how to implement Machine Learning models and g
 - and hence, there is no need of transform method, but just fit.
 #### Can we use decision tree on one feature dataset?
 - yes, we can. But the visualisation won't be that pretty.
+- decision tree regression gives the range of prediction where the features are same.
