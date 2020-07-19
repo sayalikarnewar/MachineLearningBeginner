@@ -16,3 +16,5 @@ This is a most basic way to learn how to implement Machine Learning models and g
 - for more than one feature, we can't visualise the graph, as it wll be in higher dimension.
 #### What is ensemble learning simply?
 - Ensemble learning is when you take multiple algorithms or the same algorithm multiple times and you put them together to make something much more powerful than the original.
+#### Random Forest Regression
+- we have more splits as compared to decision tree(1 split), so while visualing it, we see more no of stairs.
